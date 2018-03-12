@@ -13,6 +13,7 @@ Build and run Play! application:
 > sbt "project booksearch" clean run
 
 additional stuff
+adding more and more stuff
 some different stuff
 
 that I am adding
